@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mmc_pixel_game/static/css/main.397b2038.css",
+    "main.js": "/mmc_pixel_game/static/js/main.51628976.js",
+    "static/js/453.b9a75013.chunk.js": "/mmc_pixel_game/static/js/453.b9a75013.chunk.js",
+    "index.html": "/mmc_pixel_game/index.html",
+    "main.397b2038.css.map": "/mmc_pixel_game/static/css/main.397b2038.css.map",
+    "main.51628976.js.map": "/mmc_pixel_game/static/js/main.51628976.js.map",
+    "453.b9a75013.chunk.js.map": "/mmc_pixel_game/static/js/453.b9a75013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397b2038.css",
+    "static/js/main.51628976.js"
+  ]
+}
