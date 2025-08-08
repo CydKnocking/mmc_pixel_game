@@ -276,7 +276,7 @@ function Game() {
       >
         {/* 背景地图 */}
         <img
-          src="/elements/map.png"
+          src={process.env.PUBLIC_URL + "/elements/map.png"}
           style={{
             position: "absolute",
             top: "50%",
@@ -291,7 +291,7 @@ function Game() {
 
         {/* UI 叠加图层 */}
         <img
-          src="/elements/map_ui.png"
+          src={process.env.PUBLIC_URL + "/elements/map_ui.png"}
           style={{
             position: "absolute",
             top: "50%",
@@ -305,7 +305,7 @@ function Game() {
 
         {/* mmc 主角 */}
         <img
-          src={getMmcGif()}
+          src={process.env.PUBLIC_URL + getMmcGif()}
           style={{
             position: "absolute",
             width: TILE_SIZE,
@@ -321,7 +321,7 @@ function Game() {
         {mulis.map((muli) => (
           <img
             key={muli.id}
-            src={getMuliGif(muli)}
+            src={process.env.PUBLIC_URL + getMuliGif(muli)}
             style={{
               position: "absolute",
               width: TILE_SIZE,
