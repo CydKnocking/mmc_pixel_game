@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mmc_pixel_game/static/css/main.397b2038.css",
-    "main.js": "/mmc_pixel_game/static/js/main.ffd1946a.js",
-    "static/js/453.b9a75013.chunk.js": "/mmc_pixel_game/static/js/453.b9a75013.chunk.js",
-    "index.html": "/mmc_pixel_game/index.html",
-    "main.397b2038.css.map": "/mmc_pixel_game/static/css/main.397b2038.css.map",
-    "main.ffd1946a.js.map": "/mmc_pixel_game/static/js/main.ffd1946a.js.map",
-    "453.b9a75013.chunk.js.map": "/mmc_pixel_game/static/js/453.b9a75013.chunk.js.map"
+    "main.css": "/mmc.knocking.moe/static/css/main.397b2038.css",
+    "main.js": "/mmc.knocking.moe/static/js/main.d88d3fa6.js",
+    "static/js/453.b9a75013.chunk.js": "/mmc.knocking.moe/static/js/453.b9a75013.chunk.js",
+    "index.html": "/mmc.knocking.moe/index.html",
+    "main.397b2038.css.map": "/mmc.knocking.moe/static/css/main.397b2038.css.map",
+    "main.d88d3fa6.js.map": "/mmc.knocking.moe/static/js/main.d88d3fa6.js.map",
+    "453.b9a75013.chunk.js.map": "/mmc.knocking.moe/static/js/453.b9a75013.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.397b2038.css",
-    "static/js/main.ffd1946a.js"
+    "static/js/main.d88d3fa6.js"
   ]
 }
